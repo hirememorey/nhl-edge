@@ -1,0 +1,189 @@
+{
+  "overview_section": [
+    {
+      "stat_label": "Top Skating Speed (mph)",
+      "player_value": 23.97,
+      "league_average": 22.1,
+      "percentile": 98.0,
+      "tooltip": "12/31/2024 vs UTA - Period 2 08:49"
+    },
+    {
+      "stat_label": "Speed Bursts Over 20 mph",
+      "player_value": 288.0,
+      "league_average": 53.2,
+      "percentile": 99.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Skating Distance (mi)",
+      "player_value": 175.33,
+      "league_average": 87.99,
+      "percentile": 98.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Top Shot Speed (mph)",
+      "player_value": 84.29,
+      "league_average": 83.32,
+      "percentile": null,
+      "tooltip": "1/9/2025 @ PIT - Period 3 05:00"
+    },
+    {
+      "stat_label": "Shots on Goal",
+      "player_value": 147.0,
+      "league_average": 61.5,
+      "percentile": 94.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Shooting %",
+      "player_value": 14.3,
+      "league_average": 12.6,
+      "percentile": 66.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Goals",
+      "player_value": 21.0,
+      "league_average": 7.7,
+      "percentile": 94.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Off. Zone Time (ES)",
+      "player_value": 47.2,
+      "league_average": 41.3,
+      "percentile": 99.0,
+      "tooltip": null
+    }
+  ],
+  "skating_speed_section": [
+    {
+      "stat_label": "Top Speed (mph)",
+      "player_value": 23.97,
+      "league_average": 22.1,
+      "percentile": 98.0,
+      "tooltip": "12/31/2024 vs UTA - Period 2 08:49"
+    },
+    {
+      "stat_label": "22+ mph bursts",
+      "player_value": 52.0,
+      "league_average": 2.6,
+      "percentile": 99.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "20-22 mph bursts",
+      "player_value": 236.0,
+      "league_average": 50.7,
+      "percentile": 99.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "18-20 mph bursts",
+      "player_value": 493.0,
+      "league_average": 227.9,
+      "percentile": 97.0,
+      "tooltip": null
+    }
+  ],
+  "skating_distance_section": [
+    {
+      "stat_label": "Total (mi)",
+      "player_value": 175.33,
+      "league_average": 87.99,
+      "percentile": 98.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Average Per 60 (mi)",
+      "player_value": 10.34,
+      "league_average": 9.67,
+      "percentile": 95.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Top Game (mi)",
+      "player_value": 4.57,
+      "league_average": 2.87,
+      "percentile": 99.0,
+      "tooltip": "10/22/2024 vs CAR"
+    },
+    {
+      "stat_label": "Top Period (mi)",
+      "player_value": 1.78,
+      "league_average": 1.14,
+      "percentile": 99.0,
+      "tooltip": "11/23/2024 vs NYR - Period 2"
+    }
+  ],
+  "shot_speed_section": [
+    {
+      "stat_label": "Top Speed (mph)",
+      "player_value": 84.29,
+      "league_average": 83.32,
+      "percentile": null,
+      "tooltip": "1/9/2025 @ PIT - Period 3 05:00"
+    },
+    {
+      "stat_label": "Average Speed (mph)",
+      "player_value": 53.64,
+      "league_average": 56.86,
+      "percentile": null,
+      "tooltip": null
+    },
+    {
+      "stat_label": "100+ mph shots",
+      "player_value": 0.0,
+      "league_average": 0.01,
+      "percentile": null,
+      "tooltip": null
+    },
+    {
+      "stat_label": "90-100 mph shots",
+      "player_value": 0.0,
+      "league_average": 0.44,
+      "percentile": null,
+      "tooltip": null
+    },
+    {
+      "stat_label": "80-90 mph shots",
+      "player_value": 4.0,
+      "league_average": 6.37,
+      "percentile": 53.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "70-80 mph shots",
+      "player_value": 47.0,
+      "league_average": 19.74,
+      "percentile": 90.0,
+      "tooltip": null
+    }
+  ],
+  "shot_location_section": [
+    {
+      "stat_label": "Shots on Goal",
+      "player_value": 147.0,
+      "league_average": 61.5,
+      "percentile": 94.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Goals",
+      "player_value": 21.0,
+      "league_average": 7.7,
+      "percentile": 94.0,
+      "tooltip": null
+    },
+    {
+      "stat_label": "Shooting %",
+      "player_value": 14.3,
+      "league_average": 12.6,
+      "percentile": 66.0,
+      "tooltip": null
+    }
+  ],
+  "zonetime_section": [],
+  "radar_chart": null
+}
